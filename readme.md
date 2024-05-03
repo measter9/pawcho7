@@ -1,5 +1,8 @@
 # Laboratorium 7
 
+
+- [Repozytorium dockerhub](https://hub.docker.com/repository/docker/d4sk/labtest/general)
+
 ### Budowanie obrazu 
 
 ``
@@ -23,4 +26,3 @@ opcje ``--cache-to`` oraz ``--cache-from`` służa do definicji zapisaywania cac
 ![build cache](image-3.png)
 
 pobranie danych cache z repo oraz wykorzysatnie ich w procesie budowania
-
